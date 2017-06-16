@@ -1,0 +1,6 @@
+framework module Pods_iOSNestReactNative {
+  umbrella header "Pods-iOSNestReactNative-umbrella.h"
+
+  export *
+  module * { export * }
+}
